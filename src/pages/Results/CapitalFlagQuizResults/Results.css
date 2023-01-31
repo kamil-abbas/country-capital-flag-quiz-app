@@ -1,0 +1,26 @@
+.cap-fla-table, .cap-fla-tr, .cap-fla-td, .cap-fla-th{
+    border: 2px solid white;
+    border-collapse: collapse;
+    width: 45vw;
+}
+
+.cap-fla-td{
+    display: table-cell;
+    text-align: center;
+}
+
+.cap-fla-first-column-item{
+    text-align: left;
+}
+
+.cap-fla-first-column{
+    width: 15vw;
+}
+
+.cap-fla-second-column, .cap-fla-third-column{
+    width: 6vw;
+}
+
+td img{
+    width: 5vw;
+}

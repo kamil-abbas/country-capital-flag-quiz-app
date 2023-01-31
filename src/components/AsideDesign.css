@@ -1,0 +1,68 @@
+@media screen and (max-width: 2000px) {
+  .shape-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 10vw;
+    height: 10vw;
+    border-radius: 25vh;
+  }
+
+  .rounded-shape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(163, 39, 39);
+    width: 8vw;
+    height: 8vw;
+    border-radius: 15vh;
+    text-align: center;
+    font-size: 1.5vw;
+  }
+
+  .shape-wrapper:hover {
+    background-color: rgb(163, 39, 39);
+    transition: 0.4s;
+    cursor: pointer;
+    width: 12vw;
+    height: 12vw;
+  }
+
+  .shape-wrapper:not(:hover) {
+    transition: 0.8s;
+  }
+
+  .shape-wrapper:hover .rounded-shape {
+    background-color: white;
+    color: rgb(163, 39, 39);
+    font-weight: 500;
+    font-size: 1.8vw;
+    width: 9vw;
+    height: 9vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+    .shape-wrapper {
+        width: 15.5vw;
+        height: 15.5vw;
+      }
+    
+      .rounded-shape {
+        width: 12vw;
+        height: 12vw;
+        font-size: 2.5vw;
+      }
+    
+      .shape-wrapper:hover {
+        width: 18vw;
+        height: 18vw;
+      }
+    
+      .shape-wrapper:hover .rounded-shape {
+        font-size: 3vw;
+        width: 14vw;
+        height: 14vw;
+      }
+}

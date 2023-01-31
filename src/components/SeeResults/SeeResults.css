@@ -1,0 +1,11 @@
+.see-results-wrapper:hover{
+    background-color: green;
+}
+
+.see-results-wrapper:hover > .rounded-shape > .see-results-container{
+    color: green;
+}
+
+.see-results-container{
+    background-color: green;
+}

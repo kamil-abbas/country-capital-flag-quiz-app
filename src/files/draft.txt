@@ -1,0 +1,140 @@
+For overtime
+
+  function startQuestion() {
+    setTimeout(() => {
+      console.log("10");
+      let questionText = document.querySelector(".question-title").innerText;
+      let askedCountry = questionText.substring(36, questionText.length - 1);
+      let correctAnswer =
+        allCountries[
+          allCountries.findIndex((item) => item.country == askedCountry)
+        ].capital;
+      document.querySelectorAll(".answer").forEach((answer) => {
+        answer.classList.add("not-clickable");
+        if (answer.innerText == correctAnswer) {
+          answer.style.backgroundColor = "red";
+        }
+      });
+      setTimeout(() => {
+        console.log("14");
+        dispatch(ifCorrect(answerArray[randNum].country, "", correctAnswer));
+      }, 4000);
+    }, 10500);
+    // window.stopImmediatePropogation();
+  }
+
+For Timer JS
+
+import React, { useEffect, useState } from "react";
+import "./Timer.css";
+import "../../App.css";
+import { useDispatch, useSelector } from "react-redux";
+import { ifTimeOver } from "../../redux/Main/action-creator";
+
+const Timer = (props) => {
+  // console.log("timer");
+  const [time, setTime] = useState(props.time);
+  let questionNum = useSelector((store) => store.questionNum);
+
+  useEffect(() => {
+    const timeStart = setInterval(() => {
+      // console.log("set");
+      if (props.startClicked == true && time > -3 && questionNum) {
+        // console.log("set");
+        setTime((preTime) => preTime - 1);
+      } else {
+          setTime(10);
+      }
+    }, 1000);
+
+    return () => {
+      clearInterval(timeStart);
+      // console.log("clear");
+    };
+  });
+
+  return (
+    <div className="timer-shape-wrapper">
+      <div className={time>=0 ? "timer-rounded-shape":"timer-rounded-shape color-green"}>{time}</div>
+    </div>
+  );
+};
+
+export default Timer;
+
+For Timer css
+
+.timer-shape-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+    width: 11vw;
+    height: 11vw;
+    border-radius: 25vh;
+    font-size: 4vw;
+}
+
+.timer-rounded-shape{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    width: 8vw;
+    height: 8vw;
+    border-radius: 15vh;
+}
+
+.color-green{
+    color: green;
+}
+
+ASIDE
+
+<div className="aside-right correct-answer-number-container">
+              <div className="text-center">Correct answers:</div>
+              <div className="correct-answer-number">
+                {correctAnswerCount}/10
+              </div>
+              <div className="results-wrapper">
+                <div className={questionNum > 10 ? "results" : "hidden"}>
+                  <Link to="/results" className="link">
+                    See Results
+                  </Link>
+                </div>
+              </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+            let ans1Details = allCountries[Math.floor(Math.random() * 196)];
+let ans2Details = allCountries[Math.floor(Math.random() * 196)];
+let ans3Details = allCountries[Math.floor(Math.random() * 196)];
+let ans4Details = allCountries[Math.floor(Math.random() * 196)];
+let randNum = Math.floor(Math.random() * 4);
+
+let answerArray = [ans1Details, ans2Details, ans3Details, ans4Details];
+let correctAnswer = answerArray[randNum].capital;
+
+
+
+for not repeating
+
+  if (
+    randNumsforStore[0] == randNumsforStore[1] ||
+    randNumsforStore[0] == randNumsforStore[2] ||
+    randNumsforStore[0] == randNumsforStore[3] ||
+    randNumsforStore[1] == randNumsforStore[2] ||
+    randNumsforStore[1] == randNumsforStore[3] ||
+    randNumsforStore[2] == randNumsforStore[3]
+  ) {
+    setquestionNum(preNum => preNum);
+  }

@@ -1,0 +1,110 @@
+/* @media screen and (min-width: 590px) and (max-width: 960px) */
+
+@media screen and (max-width: 2000px) {
+  .login {
+    font-size: 2.5vw;
+    width: 35.2vw;
+    height: 14.8vw;
+    background-color: #0002a1;
+    padding: 2vw;
+    border-radius: 4vw;
+  }
+
+  .login-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5vw;
+  }
+
+  .login-title {
+    display: flex;
+    width: 100%;
+    margin-right: 5%;
+    justify-content: end;
+  }
+
+  .login-item input {
+    height: 2.5vw;
+    width: 20vw;
+    border-radius: 2vw;
+    padding: 2%;
+    padding-left: 5%;
+    margin-right: 1.5vw;
+    font-size: 1.9vw;
+  }
+
+  .login-btn,
+  .login-btn div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .login-btn {
+    width: 100%;
+    margin-top: 2vw;
+  }
+
+  .login-btn div {
+    background-color: #332fd0;
+    width: 16vw;
+    height: 4.5vw;
+    border-radius: 50vw;
+    font-weight: bold;
+  }
+
+  .login-btn div:hover {
+    cursor: pointer;
+    background-color: #fb2576;
+  }
+
+  .redirect-to-register {
+    display: flex;
+    justify-content: center;
+    margin-top: 3.5vw;
+    font-size: 1.5vw;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .login {
+    font-size: 2.3vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .login {
+    width: 50vw;
+    height: 26vw;
+    border-radius: 5vw;
+    font-size: 4.5vw;
+  }
+
+  .login-title {
+    justify-content: start;
+  }
+
+  .login-item input {
+    height: 5vw;
+    width: 23vw;
+    border-radius: 3vw;
+    margin-right: 2vw;
+    font-size: 3vw;
+  }
+
+  .login-btn {
+    margin-top: 2.5vw;
+  }
+
+  .login-btn div {
+    width: 20vw;
+    height: 8vw;
+  }
+  
+  .redirect-to-register {
+    margin-top: 5vw;
+    font-size: 2vw;
+  }
+
+}

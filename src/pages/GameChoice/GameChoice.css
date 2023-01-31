@@ -1,0 +1,36 @@
+@media screen and (max-width: 2000px) {
+  .game-choice {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+
+  .select-question-title {
+    display: flex;
+    justify-content: center;
+    font-size: 2.25vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+  }
+
+  .select-game-container {
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+    font-size: 1.3vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .select-question-title {
+    font-size: 4vw;
+  }
+  
+  .select-game-container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 75vw;
+    font-size: 2vw;
+  }
+}

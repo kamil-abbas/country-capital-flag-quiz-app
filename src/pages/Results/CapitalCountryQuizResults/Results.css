@@ -1,0 +1,22 @@
+.cap-cou-table, .cap-cou-tr, .cap-cou-td, .cap-cou-th{
+    border: 2px solid white;
+    border-collapse: collapse;
+    width: 60vw;
+}
+
+.cap-cou-td{
+    display: table-cell;
+    text-align: center;
+}
+
+.cap-cou-first-column-item{
+    text-align: left;
+}
+
+.cap-cou-first-column{
+    width: 20vw;
+}
+
+.cap-cou-second-column, .cap-cou-third-column{
+    width: 13vw;
+}

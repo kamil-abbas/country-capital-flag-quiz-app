@@ -1,0 +1,24 @@
+.correct-answer-wrapper{
+    pointer-events: none;
+}
+
+.correct-answer-container{
+    background-color: #1f6d8d;
+}
+
+.correct-answer-wrapper:hover{
+    background-color: #1f6d8d;
+}
+
+.correct-answer-wrapper:hover > .correct-answer-container{
+    color: #1f6d8d;
+}
+
+img{
+    width: 10px;
+}
+
+b{
+    color: rgb(0, 255, 0);
+    font-size: 2.5vw
+}

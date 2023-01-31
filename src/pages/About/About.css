@@ -1,0 +1,30 @@
+@media screen and (max-width: 2000px) {
+  .about-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 105vh;
+  }
+
+  .about {
+    color: white;
+    width: 60vw;
+    text-align: justify;
+  }
+
+  .about h1 {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 600px) {
+    .about-wrapper{
+        height: 150vw;
+    }
+
+    .about{
+        width: 80vw;
+        font-size: 3vw;
+    }
+}

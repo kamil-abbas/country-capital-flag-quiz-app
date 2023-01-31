@@ -1,0 +1,7 @@
+.timer-wrapper {
+  pointer-events: none;
+}
+
+.timer-container {
+  background-color: black;
+}

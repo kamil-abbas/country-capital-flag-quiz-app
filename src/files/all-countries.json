@@ -1,0 +1,982 @@
+[
+  {
+    "country": "Afghanistan",
+    "capital": "Kabul",
+    "flag": "https://flagpedia.net/data/flags/h80/af.png"
+  },
+  {
+    "country": "Albania",
+    "capital": "Tirane",
+    "flag": "https://flagpedia.net/data/flags/h80/al.png"
+  },
+  {
+    "country": "Algeria",
+    "capital": "Algiers",
+    "flag": "https://flagpedia.net/data/flags/h80/dz.png"
+  },
+  {
+    "country": "Andorra",
+    "capital": "Andorra la Vella",
+    "flag": "https://flagpedia.net/data/flags/h80/ad.png"
+  },
+  {
+    "country": "Angola",
+    "capital": "Luanda",
+    "flag": "https://flagpedia.net/data/flags/h80/ao.png"
+  },
+  {
+    "country": "Antigua & Barbuda",
+    "capital": "Saint John's",
+    "flag": "https://flagpedia.net/data/flags/h80/ag.png"
+  },
+  {
+    "country": "Argentina",
+    "capital": "Buenos Aires",
+    "flag": "https://flagpedia.net/data/flags/h80/ar.png"
+  },
+  {
+    "country": "Armenia",
+    "capital": "Yerevan",
+    "flag": "https://flagpedia.net/data/flags/h80/am.png"
+  },
+  {
+    "country": "Australia",
+    "capital": "Canberra",
+    "flag": "https://flagpedia.net/data/flags/h80/au.png"
+  },
+  {
+    "country": "Austria",
+    "capital": "Vienna",
+    "flag": "https://flagpedia.net/data/flags/h80/at.png"
+  },
+  {
+    "country": "Azerbaijan",
+    "capital": "Baku",
+    "flag": "https://flagpedia.net/data/flags/h80/az.png"
+  },
+  {
+    "country": "The Bahamas",
+    "capital": "Nassau",
+    "flag": "https://flagpedia.net/data/flags/h80/bs.png"
+  },
+  {
+    "country": "Bahrain",
+    "capital": "Manama",
+    "flag": "https://flagpedia.net/data/flags/h80/bh.png"
+  },
+  {
+    "country": "Bangladesh",
+    "capital": "Dhaka",
+    "flag": "https://flagpedia.net/data/flags/h80/bd.png"
+  },
+  {
+    "country": "Barbados",
+    "capital": "Bridgetown",
+    "flag": "https://flagpedia.net/data/flags/h80/bb.png"
+  },
+  {
+    "country": "Belarus",
+    "capital": "Minsk",
+    "flag": "https://flagpedia.net/data/flags/h80/by.png"
+  },
+  {
+    "country": "Belgium",
+    "capital": "Brussels",
+    "flag": "https://flagpedia.net/data/flags/h80/be.png"
+  },
+  {
+    "country": "Belize",
+    "capital": "Belmopan",
+    "flag": "https://flagpedia.net/data/flags/h80/bz.png"
+  },
+  {
+    "country": "Benin",
+    "capital": "Porto-Novo",
+    "flag": "https://flagpedia.net/data/flags/h80/bj.png"
+  },
+  {
+    "country": "Bhutan",
+    "capital": "Thimphu",
+    "flag": "https://flagpedia.net/data/flags/h80/bt.png"
+  },
+  {
+    "country": "Bolivia",
+    "capital": "La Paz / Sucre",
+    "flag": "https://flagpedia.net/data/flags/h80/bo.png"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "flag": "https://flagpedia.net/data/flags/h80/ba.png"
+  },
+  {
+    "country": "Botswana",
+    "capital": "Gaborone",
+    "flag": "https://flagpedia.net/data/flags/h80/bw.png"
+  },
+  {
+    "country": "Brazil",
+    "capital": "Brasilia",
+    "flag": "https://flagpedia.net/data/flags/h80/br.png"
+  },
+  {
+    "country": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "flag": "https://flagpedia.net/data/flags/h80/bn.png"
+  },
+  {
+    "country": "Bulgaria",
+    "capital": "Sofia",
+    "flag": "https://flagpedia.net/data/flags/h80/bg.png"
+  },
+  {
+    "country": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "flag": "https://flagpedia.net/data/flags/h80/bf.png"
+  },
+  {
+    "country": "Burundi",
+    "capital": "Bujumbura",
+    "flag": "https://flagpedia.net/data/flags/h80/bi.png"
+  },
+  {
+    "country": "Cambodia",
+    "capital": "Phnom Penh",
+    "flag": "https://flagpedia.net/data/flags/h80/kh.png"
+  },
+  {
+    "country": "Cameroon",
+    "capital": "Yaounde",
+    "flag": "https://flagpedia.net/data/flags/h80/cm.png"
+  },
+  {
+    "country": "Canada",
+    "capital": "Ottawa",
+    "flag": "https://flagpedia.net/data/flags/h80/ca.png"
+  },
+  {
+    "country": "Cape Verde",
+    "capital": "Praia",
+    "flag": "https://flagpedia.net/data/flags/h80/cv.png"
+  },
+  {
+    "country": "Central African Republic",
+    "capital": "Bangui",
+    "flag": "https://flagpedia.net/data/flags/h80/cf.png"
+  },
+  {
+    "country": "Chad",
+    "capital": "N'djamena",
+    "flag": "https://flagpedia.net/data/flags/h80/td.png"
+  },
+  {
+    "country": "Chile",
+    "capital": "Santiago",
+    "flag": "https://flagpedia.net/data/flags/h80/cl.png"
+  },
+  {
+    "country": "China",
+    "capital": "Beijing",
+    "flag": "https://flagpedia.net/data/flags/h80/cn.png"
+  },
+  {
+    "country": "Colombia",
+    "capital": "Bogota",
+    "flag": "https://flagpedia.net/data/flags/h80/co.png"
+  },
+  {
+    "country": "Comoros",
+    "capital": "Moron",
+    "flag": "https://flagpedia.net/data/flags/h80/km.png"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "flag": "https://flagpedia.net/data/flags/h80/dr.png"
+  },
+  {
+    "country": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "flag": "https://flagpedia.net/data/flags/h80/cg.png"
+  },
+  {
+    "country": "Costa Rica",
+    "capital": "San Jose",
+    "flag": "https://flagpedia.net/data/flags/h80/cr.png"
+  },
+  {
+    "country": "Cote d'ivoire (Ivory Coast)",
+    "capital": "Yamoussoukro / Abidjan",
+    "flag": "https://flagpedia.net/data/flags/h80/ci.png"
+  },
+  {
+    "country": "Croatia",
+    "capital": "Zagreb",
+    "flag": "https://flagpedia.net/data/flags/h80/hr.png"
+  },
+  {
+    "country": "Cuba",
+    "capital": "Havana",
+    "flag": "https://flagpedia.net/data/flags/h80/cu.png"
+  },
+  {
+    "country": "Cyprus",
+    "capital": "Nicosia",
+    "flag": "https://flagpedia.net/data/flags/h80/cy.png"
+  },
+  {
+    "country": "Czechia",
+    "capital": "Prague",
+    "flag": "https://flagpedia.net/data/flags/h80/cz.png"
+  },
+  {
+    "country": "Denmark",
+    "capital": "Copenhagen",
+    "flag": "https://flagpedia.net/data/flags/h80/dk.png"
+  },
+  {
+    "country": "Djibouti",
+    "capital": "Djibouti",
+    "flag": "https://flagpedia.net/data/flags/h80/dj.png"
+  },
+  {
+    "country": "Dominica",
+    "capital": "Rosesau",
+    "flag": "https://flagpedia.net/data/flags/h80/dm.png"
+  },
+  {
+    "country": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "flag": "https://flagpedia.net/data/flags/h80/do.png"
+  },
+  {
+    "country": "East Timor (Timor-Leste)",
+    "capital": "Dilli",
+    "flag": "https://flagpedia.net/data/flags/h80/tl.png"
+  },
+  {
+    "country": "Ecuador",
+    "capital": "Quito",
+    "flag": "https://flagpedia.net/data/flags/h80/ec.png"
+  },
+  {
+    "country": "Egypt",
+    "capital": "Cairo",
+    "flag": "https://flagpedia.net/data/flags/h80/eg.png"
+  },
+  {
+    "country": "El Salvador",
+    "capital": "San Salvador",
+    "flag": "https://flagpedia.net/data/flags/h80/sv.png"
+  },
+  {
+    "country": "Equitorial Guinea",
+    "capital": "Malabo",
+    "flag": "https://flagpedia.net/data/flags/h80/gq.png"
+  },
+  {
+    "country": "Eritrea",
+    "capital": "Asmara",
+    "flag": "https://flagpedia.net/data/flags/h80/er.png"
+  },
+  {
+    "country": "Estonia",
+    "capital": "Tallinn",
+    "flag": "https://flagpedia.net/data/flags/h80/ee.png"
+  },
+  {
+    "country": "Ethiopia",
+    "capital": "Addis Ababa",
+    "flag": "https://flagpedia.net/data/flags/h80/et.png"
+  },
+  {
+    "country": "Fiji",
+    "capital": "Suva",
+    "flag": "https://flagpedia.net/data/flags/h80/fj.png"
+  },
+  {
+    "country": "Finland",
+    "capital": "Helsinki",
+    "flag": "https://flagpedia.net/data/flags/h80/fi.png"
+  },
+  {
+    "country": "France",
+    "capital": "Paris",
+    "flag": "https://flagpedia.net/data/flags/h80/fr.png"
+  },
+  {
+    "country": "Gabon",
+    "capital": "Libreville",
+    "flag": "https://flagpedia.net/data/flags/h80/ga.png"
+  },
+  {
+    "country": "The Gambia",
+    "capital": "Banjul",
+    "flag": "https://flagpedia.net/data/flags/h80/gm.png"
+  },
+  {
+    "country": "Georgia",
+    "capital": "Tbilisi",
+    "flag": "https://flagpedia.net/data/flags/h80/ge.png"
+  },
+  {
+    "country": "Germany",
+    "capital": "Berlin",
+    "flag": "https://flagpedia.net/data/flags/h80/de.png"
+  },
+  {
+    "country": "Ghana",
+    "capital": "Accra",
+    "flag": "https://flagpedia.net/data/flags/h80/gh.png"
+  },
+  {
+    "country": "Greece",
+    "capital": "Athens",
+    "flag": "https://flagpedia.net/data/flags/h80/gr.png"
+  },
+  {
+    "country": "Grenada",
+    "capital": "St. George's",
+    "flag": "https://flagpedia.net/data/flags/h80/gd.png"
+  },
+  {
+    "country": "Guatemala",
+    "capital": "Guatemala city",
+    "flag": "https://flagpedia.net/data/flags/h80/gt.png"
+  },
+  {
+    "country": "Guinea",
+    "capital": "Conakry",
+    "flag": "https://flagpedia.net/data/flags/h80/gn.png"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "capital": "Bissau",
+    "flag": "https://flagpedia.net/data/flags/h80/gw.png"
+  },
+  {
+    "country": "Guyana",
+    "capital": "Georgetown",
+    "flag": "https://flagpedia.net/data/flags/h80/gy.png"
+  },
+  {
+    "country": "Haiti",
+    "capital": "Port-au-Prince",
+    "flag": "https://flagpedia.net/data/flags/h80/ht.png"
+  },
+  {
+    "country": "Honduras",
+    "capital": "Tegucigalpa",
+    "flag": "https://flagpedia.net/data/flags/h80/hn.png"
+  },
+  {
+    "country": "Hungary",
+    "capital": "Budapest",
+    "flag": "https://flagpedia.net/data/flags/h80/hu.png"
+  },
+  {
+    "country": "Iceland",
+    "capital": "Reykjavik",
+    "flag": "https://flagpedia.net/data/flags/h80/is.png"
+  },
+  {
+    "country": "India",
+    "capital": "New Delhi",
+    "flag": "https://flagpedia.net/data/flags/h80/in.png"
+  },
+  {
+    "country": "Indonesia",
+    "capital": "Jakarta",
+    "flag": "https://flagpedia.net/data/flags/h80/id.png"
+  },
+  {
+    "country": "Iran",
+    "capital": "Tehran",
+    "flag": "https://flagpedia.net/data/flags/h80/ir.png"
+  },
+  {
+    "country": "Iraq",
+    "capital": "Baghdad",
+    "flag": "https://flagpedia.net/data/flags/h80/iq.png"
+  },
+  {
+    "country": "Republic of Ireland",
+    "capital": "Dublin",
+    "flag": "https://flagpedia.net/data/flags/h80/ie.png"
+  },
+  {
+    "country": "Israel",
+    "capital": "Jerusalem",
+    "flag": "https://flagpedia.net/data/flags/h80/il.png"
+  },
+  {
+    "country": "Italy",
+    "capital": "Rome",
+    "flag": "https://flagpedia.net/data/flags/h80/it.png"
+  },
+  {
+    "country": "Jamaica",
+    "capital": "Kingston",
+    "flag": "https://flagpedia.net/data/flags/h80/jm.png"
+  },
+  {
+    "country": "Japan",
+    "capital": "Tokyo",
+    "flag": "https://flagpedia.net/data/flags/h80/jp.png"
+  },
+  {
+    "country": "Jordan",
+    "capital": "Amman",
+    "flag": "https://flagpedia.net/data/flags/h80/jo.png"
+  },
+  {
+    "country": "Kazakhstan",
+    "capital": "Astana",
+    "flag": "https://flagpedia.net/data/flags/h80/kz.png"
+  },
+  {
+    "country": "Kenya",
+    "capital": "Nairobi",
+    "flag": "https://flagpedia.net/data/flags/h80/ke.png"
+  },
+  {
+    "country": "Kiribati",
+    "capital": "Tarawa atoll",
+    "flag": "https://flagpedia.net/data/flags/h80/ki.png"
+  },
+  {
+    "country": "North Korea",
+    "capital": "Pyongyang",
+    "flag": "https://flagpedia.net/data/flags/h80/kp.png"
+  },
+  {
+    "country": "South Korea",
+    "capital": "Seoul",
+    "flag": "https://flagpedia.net/data/flags/h80/kr.png"
+  },
+  {
+    "country": "Kosovo",
+    "capital": "Pristina",
+    "flag": "https://flagpedia.net/data/flags/h80/xk.png"
+  },
+  {
+    "country": "Kuwait",
+    "capital": "Kuwait city",
+    "flag": "https://flagpedia.net/data/flags/h80/kw.png"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "flag": "https://flagpedia.net/data/flags/h80/kg.png"
+  },
+  {
+    "country": "Laos",
+    "capital": "Vientiane",
+    "flag": "https://flagpedia.net/data/flags/h80/la.png"
+  },
+  {
+    "country": "Latvia",
+    "capital": "Riga",
+    "flag": "https://flagpedia.net/data/flags/h80/lv.png"
+  },
+  {
+    "country": "Lebanon",
+    "capital": "Beirut",
+    "flag": "https://flagpedia.net/data/flags/h80/lb.png"
+  },
+  {
+    "country": "Lesotho",
+    "capital": "Maseru",
+    "flag": "https://flagpedia.net/data/flags/h80/ls.png"
+  },
+  {
+    "country": "Liberia",
+    "capital": "Monrovia",
+    "flag": "https://flagpedia.net/data/flags/h80/lr.png"
+  },
+  {
+    "country": "Libya",
+    "capital": "Tripoli",
+    "flag": "https://flagpedia.net/data/flags/h80/ly.png"
+  },
+  {
+    "country": "Liechtenstein",
+    "capital": "Vaduz",
+    "flag": "https://flagpedia.net/data/flags/h80/li.png"
+  },
+  {
+    "country": "Lithuania",
+    "capital": "Vilnius",
+    "flag": "https://flagpedia.net/data/flags/h80/lt.png"
+  },
+  {
+    "country": "Luxembourg",
+    "capital": "Luxembourg",
+    "flag": "https://flagpedia.net/data/flags/h80/lu.png"
+  },
+  {
+    "country": "North Macedonia",
+    "capital": "Skopje",
+    "flag": "https://flagpedia.net/data/flags/h80/mk.png"
+  },
+  {
+    "country": "Madagascar",
+    "capital": "Antananarivo",
+    "flag": "https://flagpedia.net/data/flags/h80/mg.png"
+  },
+  {
+    "country": "Malawi",
+    "capital": "Lilongwe",
+    "flag": "https://flagpedia.net/data/flags/h80/mw.png"
+  },
+  {
+    "country": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "flag": "https://flagpedia.net/data/flags/h80/my.png"
+  },
+  {
+    "country": "Maldives",
+    "capital": "Male",
+    "flag": "https://flagpedia.net/data/flags/h80/mv.png"
+  },
+  {
+    "country": "Mali",
+    "capital": "Bamako",
+    "flag": "https://flagpedia.net/data/flags/h80/ml.png"
+  },
+  {
+    "country": "Malta",
+    "capital": "Valletta",
+    "flag": "https://flagpedia.net/data/flags/h80/mt.png"
+  },
+  {
+    "country": "Marshall islands",
+    "capital": "Majuro",
+    "flag": "https://flagpedia.net/data/flags/h80/mh.png"
+  },
+  {
+    "country": "Mauritania",
+    "capital": "Nouakchott",
+    "flag": "https://flagpedia.net/data/flags/h80/mr.png"
+  },
+  {
+    "country": "Mauritius",
+    "capital": "Port Louis",
+    "flag": "https://flagpedia.net/data/flags/h80/mu.png"
+  },
+  {
+    "country": "Mexico",
+    "capital": "Mexico city",
+    "flag": "https://flagpedia.net/data/flags/h80/mx.png"
+  },
+  {
+    "country": "Federal States of Micronesia",
+    "capital": "Palikir",
+    "flag": "https://flagpedia.net/data/flags/h80/fm.png"
+  },
+  {
+    "country": "Moldova",
+    "capital": "Chisinau",
+    "flag": "https://flagpedia.net/data/flags/h80/md.png"
+  },
+  {
+    "country": "Monaco",
+    "capital": "Monaco",
+    "flag": "https://flagpedia.net/data/flags/h80/mc.png"
+  },
+  {
+    "country": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "flag": "https://flagpedia.net/data/flags/h80/mn.png"
+  },
+  {
+    "country": "Montenegro",
+    "capital": "Podgorica",
+    "flag": "https://flagpedia.net/data/flags/h80/me.png"
+  },
+  {
+    "country": "Morocco",
+    "capital": "Rabat",
+    "flag": "https://flagpedia.net/data/flags/h80/ma.png"
+  },
+  {
+    "country": "Mozambique",
+    "capital": "Maputo",
+    "flag": "https://flagpedia.net/data/flags/h80/mz.png"
+  },
+  {
+    "country": "Myanmar (Burma)",
+    "capital": "Nypyidaw",
+    "flag": "https://flagpedia.net/data/flags/h80/mm.png"
+  },
+  {
+    "country": "Namibia",
+    "capital": "Windhoek",
+    "flag": "https://flagpedia.net/data/flags/h80/na.png"
+  },
+  {
+    "country": "Nauru",
+    "capital": "Yaren",
+    "flag": "https://flagpedia.net/data/flags/h80/nr.png"
+  },
+  {
+    "country": "Nepal",
+    "capital": "Kathmandu",
+    "flag": "https://flagpedia.net/data/flags/h80/np.png"
+  },
+  {
+    "country": "Netherlands",
+    "capital": "Amsterdam",
+    "flag": "https://flagpedia.net/data/flags/h80/nl.png"
+  },
+  {
+    "country": "New Zealand",
+    "capital": "Wellington",
+    "flag": "https://flagpedia.net/data/flags/h80/nz.png"
+  },
+  {
+    "country": "Nicaragua",
+    "capital": "Managua",
+    "flag": "https://flagpedia.net/data/flags/h80/ni.png"
+  },
+  {
+    "country": "Niger",
+    "capital": "Niamey",
+    "flag": "https://flagpedia.net/data/flags/h80/ne.png"
+  },
+  {
+    "country": "Nigeria",
+    "capital": "Abuja",
+    "flag": "https://flagpedia.net/data/flags/h80/ng.png"
+  },
+  {
+    "country": "Norway",
+    "capital": "Oslo",
+    "flag": "https://flagpedia.net/data/flags/h80/no.png"
+  },
+  {
+    "country": "Oman",
+    "capital": "Muscat",
+    "flag": "https://flagpedia.net/data/flags/h80/om.png"
+  },
+  {
+    "country": "Pakistan",
+    "capital": "Islamabad",
+    "flag": "https://flagpedia.net/data/flags/h80/pk.png"
+  },
+  {
+    "country": "Palau",
+    "capital": "Melekeok",
+    "flag": "https://flagpedia.net/data/flags/h80/pw.png"
+  },
+  {
+    "country": "Panama",
+    "capital": "Panama city",
+    "flag": "https://flagpedia.net/data/flags/h80/pa.png"
+  },
+  {
+    "country": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "flag": "https://flagpedia.net/data/flags/h80/pg.png"
+  },
+  {
+    "country": "Paraguay",
+    "capital": "Asuncion",
+    "flag": "https://flagpedia.net/data/flags/h80/py.png"
+  },
+  {
+    "country": "Peru",
+    "capital": "Lima",
+    "flag": "https://flagpedia.net/data/flags/h80/pe.png"
+  },
+  {
+    "country": "Philippines",
+    "capital": "Manila",
+    "flag": "https://flagpedia.net/data/flags/h80/ph.png"
+  },
+  {
+    "country": "Poland",
+    "capital": "Warsaw",
+    "flag": "https://flagpedia.net/data/flags/h80/pl.png"
+  },
+  {
+    "country": "Portugal",
+    "capital": "Lisbon",
+    "flag": "https://flagpedia.net/data/flags/h80/pt.png"
+  },
+  {
+    "country": "Qatar",
+    "capital": "Doha",
+    "flag": "https://flagpedia.net/data/flags/h80/qa.png"
+  },
+  {
+    "country": "Romania",
+    "capital": "Bucharest",
+    "flag": "https://flagpedia.net/data/flags/h80/ro.png"
+  },
+  {
+    "country": "Russia",
+    "capital": "Moscow",
+    "flag": "https://flagpedia.net/data/flags/h80/ru.png"
+  },
+  {
+    "country": "Rwanda",
+    "capital": "Kigali",
+    "flag": "https://flagpedia.net/data/flags/h80/rw.png"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "flag": "https://flagpedia.net/data/flags/h80/kn.png"
+  },
+  {
+    "country": "Saint Lucia",
+    "capital": "Castries",
+    "flag": "https://flagpedia.net/data/flags/h80/lc.png"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown East",
+    "flag": "https://flagpedia.net/data/flags/h80/vc.png"
+  },
+  {
+    "country": "Samoa",
+    "capital": "Apia",
+    "flag": "https://flagpedia.net/data/flags/h80/ws.png"
+  },
+  {
+    "country": "San Marino",
+    "capital": "San Marino",
+    "flag": "https://flagpedia.net/data/flags/h80/sm.png"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "capital": "Sao Tome",
+    "flag": "https://flagpedia.net/data/flags/h80/st.png"
+  },
+  {
+    "country": "Saudi Arabia",
+    "capital": "Riyadh",
+    "flag": "https://flagpedia.net/data/flags/h80/sa.png"
+  },
+  {
+    "country": "Senegal",
+    "capital": "Dakar",
+    "flag": "https://flagpedia.net/data/flags/h80/sn.png"
+  },
+  {
+    "country": "Serbia",
+    "capital": "Belgrade",
+    "flag": "https://flagpedia.net/data/flags/h80/rs.png"
+  },
+  {
+    "country": "Seychelles",
+    "capital": "Victoria",
+    "flag": "https://flagpedia.net/data/flags/h80/sc.png"
+  },
+  {
+    "country": "Sierra Leone",
+    "capital": "Freetown",
+    "flag": "https://flagpedia.net/data/flags/h80/sl.png"
+  },
+  {
+    "country": "Singapore",
+    "capital": "Singapore",
+    "flag": "https://flagpedia.net/data/flags/h80/sg.png"
+  },
+  {
+    "country": "Slovakia",
+    "capital": "Bratislava",
+    "flag": "https://flagpedia.net/data/flags/h80/sk.png"
+  },
+  {
+    "country": "Slovenia",
+    "capital": "Ljubljana",
+    "flag": "https://flagpedia.net/data/flags/h80/si.png"
+  },
+  {
+    "country": "Solomon islands",
+    "capital": "Honiara",
+    "flag": "https://flagpedia.net/data/flags/h80/sb.png"
+  },
+  {
+    "country": "Somalia",
+    "capital": "Mogadishu",
+    "flag": "https://flagpedia.net/data/flags/h80/so.png"
+  },
+  {
+    "country": "South Africa",
+    "capital": "Pretoria / Cape Town",
+    "flag": "https://flagpedia.net/data/flags/h80/za.png"
+  },
+  {
+    "country": "South Sudan",
+    "capital": "Juba",
+    "flag": "https://flagpedia.net/data/flags/h80/ss.png"
+  },
+  {
+    "country": "Spain",
+    "capital": "Madrid",
+    "flag": "https://flagpedia.net/data/flags/h80/es.png"
+  },
+  {
+    "country": "Sri Lanka",
+    "capital": "Colombo",
+    "flag": "https://flagpedia.net/data/flags/h80/lk.png"
+  },
+  {
+    "country": "Sudan (Republic of the Sudan)",
+    "capital": "Khartoum",
+    "flag": "https://flagpedia.net/data/flags/h80/sd.png"
+  },
+  {
+    "country": "Suriname",
+    "capital": "Paramaribo",
+    "flag": "https://flagpedia.net/data/flags/h80/sr.png"
+  },
+  {
+    "country": "Eswatini (Swaziland)",
+    "capital": "Mbabane",
+    "flag": "https://flagpedia.net/data/flags/h80/sz.png"
+  },
+  {
+    "country": "Sweden",
+    "capital": "Stockholm",
+    "flag": "https://flagpedia.net/data/flags/h80/se.png"
+  },
+  {
+    "country": "Switzerland",
+    "capital": "Berne",
+    "flag": "https://flagpedia.net/data/flags/h80/ch.png"
+  },
+  {
+    "country": "Syria",
+    "capital": "Damascus",
+    "flag": "https://flagpedia.net/data/flags/h80/sy.png"
+  },
+  {
+    "country": "Taiwan",
+    "capital": "Taipei",
+    "flag": "https://flagpedia.net/data/flags/h80/tw.png"
+  },
+  {
+    "country": "Tajikistan",
+    "capital": "Dushanbe",
+    "flag": "https://flagpedia.net/data/flags/h80/tj.png"
+  },
+  {
+    "country": "Tanzania",
+    "capital": "Dar es Salaam / Dodoma",
+    "flag": "https://flagpedia.net/data/flags/h80/tz.png"
+  },
+  {
+    "country": "Thailand",
+    "capital": "Bangkok",
+    "flag": "https://flagpedia.net/data/flags/h80/th.png"
+  },
+  {
+    "country": "Togo",
+    "capital": "Lome",
+    "flag": "https://flagpedia.net/data/flags/h80/tg.png"
+  },
+  {
+    "country": "Tonga",
+    "capital": "Nuku'alofa",
+    "flag": "https://flagpedia.net/data/flags/h80/to.png"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "capital": "Port-of-Spain",
+    "flag": "https://flagpedia.net/data/flags/h80/tt.png"
+  },
+  {
+    "country": "Tunisia",
+    "capital": "Tunis",
+    "flag": "https://flagpedia.net/data/flags/h80/tn.png"
+  },
+  {
+    "country": "Turkey",
+    "capital": "Ankara",
+    "flag": "https://flagpedia.net/data/flags/h80/tr.png"
+  },
+  {
+    "country": "Turkmenistan",
+    "capital": "Ashgabat",
+    "flag": "https://flagpedia.net/data/flags/h80/tm.png"
+  },
+  {
+    "country": "Tuvalu",
+    "capital": "Vaiaku",
+    "flag": "https://flagpedia.net/data/flags/h80/tv.png"
+  },
+  {
+    "country": "Uganda",
+    "capital": "Kampala",
+    "flag": "https://flagpedia.net/data/flags/h80/ug.png"
+  },
+  {
+    "country": "Ukraine",
+    "capital": "Kiev",
+    "flag": "https://flagpedia.net/data/flags/h80/ua.png"
+  },
+  {
+    "country": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "flag": "https://flagpedia.net/data/flags/h80/ae.png"
+  },
+  {
+    "country": "United Kingdom",
+    "capital": "London",
+    "flag": "https://flagpedia.net/data/flags/h80/gb.png"
+  },
+  {
+    "country": "United States of America",
+    "capital": "Washington D.C.",
+    "flag": "https://flagpedia.net/data/flags/h80/us.png"
+  },
+  {
+    "country": "Uruguay",
+    "capital": "Montevideo",
+    "flag": "https://flagpedia.net/data/flags/h80/uy.png"
+  },
+  {
+    "country": "Uzbekistan",
+    "capital": "Tashkent",
+    "flag": "https://flagpedia.net/data/flags/h80/uz.png"
+  },
+  {
+    "country": "Vanuatu",
+    "capital": "Port-Vila",
+    "flag": "https://flagpedia.net/data/flags/h80/vu.png"
+  },
+  {
+    "country": "Vatican city",
+    "capital": "Vatican city",
+    "flag": "https://flagpedia.net/data/flags/h80/va.png"
+  },
+  {
+    "country": "Venezuela",
+    "capital": "Caracas",
+    "flag": "https://flagpedia.net/data/flags/h80/ve.png"
+  },
+  {
+    "country": "Vietnam",
+    "capital": "Hanoi",
+    "flag": "https://flagpedia.net/data/flags/h80/vn.png"
+  },
+  {
+    "country": "Yemen",
+    "capital": "Sanaa",
+    "flag": "https://flagpedia.net/data/flags/h80/ye.png"
+  },
+  {
+    "country": "Zambia",
+    "capital": "Lusaka",
+    "flag": "https://flagpedia.net/data/flags/h80/zm.png"
+  },
+  {
+    "country": "Zimbabwe",
+    "capital": "Harare",
+    "flag": "https://flagpedia.net/data/flags/h80/zw.png"
+  }
+]

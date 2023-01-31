@@ -1,0 +1,13 @@
+.show-answer-wrapper:hover {
+  background-color: #fb2576;
+  color: #fb2576;
+}
+
+.show-answer-wrapper:hover .show-answer-container{
+    color: #fb2576;
+  }
+  
+
+.show-answer-color {
+  background-color: #fb2576;
+}

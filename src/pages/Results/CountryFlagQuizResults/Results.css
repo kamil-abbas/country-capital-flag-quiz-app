@@ -1,0 +1,26 @@
+.cou-fla-table, .cou-fla-tr, .cou-fla-td, .cou-fla-th{
+    border: 2px solid white;
+    border-collapse: collapse;
+    width: 45vw;
+}
+
+.cou-fla-td{
+    display: table-cell;
+    text-align: center;
+}
+
+.cou-fla-first-column-item{
+    text-align: left;
+}
+
+.cou-fla-first-column{
+    width: 15vw;
+}
+
+.cou-fla-second-column, .cou-fla-third-column{
+    width: 6vw;
+}
+
+td img{
+    width: 5vw;
+}
